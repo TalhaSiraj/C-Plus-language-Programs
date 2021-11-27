@@ -1,3 +1,3 @@
 # C-Plus-language-Programs
 
-This Repository Has My Work On C++ language.
+This repository has my work On C++ language.
